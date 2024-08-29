@@ -23,7 +23,7 @@ Aqui estão algumas capturas de tela do aplicativo em funcionamento:
 
 ## 🎥 Demonstração em Vídeo
 
-Assista a um vídeo demonstrativo do aplicativo em ação clicando [aqui](https://www.youtube.com/watch?v=seu-video).
+Assista a um vídeo demonstrativo do aplicativo em ação clicando [aqui](https://youtu.be/15eaCj-CS5k?si=_UCJqLM1IrlYqu1I).
 
 ## 🛠️ Tecnologias Utilizadas
 
