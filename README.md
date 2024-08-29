@@ -13,11 +13,12 @@ Bem-vindo ao **TaskList**, um aplicativo de listagem de tarefas desenvolvido com
 
 Aqui estão algumas capturas de tela do aplicativo em funcionamento:
 
+## Tela de Listagem de Tarefas
 ![Tela de Listagem de Tarefas](printTwo.png)
-*Tela de Listagem de Tarefas*
 
+###Tela de Adição de Tarefas
 ![Tela de Adição de Tarefas](printOne.png)
-*Tela de Adição de Tarefas*
+
 
 ## 🎥 Demonstração em Vídeo
 
